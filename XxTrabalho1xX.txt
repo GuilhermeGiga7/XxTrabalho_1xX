@@ -1,0 +1,25 @@
+Trabalho 1:.--. ---
+
+Conceito 1: Zero-Rating
+
+Explicação: São empresas que tomam a iniciativa de oferecer patrocineo a um agregado de aplicativos ou serviços,
+sem nenhum fim tarifário por parte dos fornecedores de conteúdos e apps um bom exemplo o Google Edge.
+
+Conceito 2: Banco de Dados
+
+Explicação: É uma rede informacional que suporta uma grande quantidade de dados informativos,
+armazenadas em um sistema de computadores.
+
+Conceito 3: Dados
+
+Explicação: É uma informação codificada eletronicamente em qualquer forma de computador,
+dentro ou fora de servidores.
+
+Conceito 4: Inteligência Artifial
+
+Explicação: É uma forma pensante feita interamente de componentes e sistemas artificiais.
+
+Conceita 5: Neutralidade de Rede
+
+Explicação: É um princípio que busca a não discriminação a fim de preservar uma Internet livre,
+facilitando a participação do usuário e bem como o pleno uso dos direitos fundamentais do homem.

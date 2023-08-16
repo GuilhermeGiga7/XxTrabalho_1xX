@@ -23,3 +23,11 @@ Conceita 5: Neutralidade de Rede
 
 Explicação: É um princípio que busca a não discriminação a fim de preservar uma Internet livre,
 facilitando a participação do usuário e bem como o pleno uso dos direitos fundamentais do homem.
+
+Trabalho 2:..-. --- --. ---
+
+Pergunta 1: Informado pelo INSS, foi mostrado que não houve nenhuma diferença na questão de aprovação e negação das aposentadorias, visto que o algoritmo apenas segue o que foi programado a risca, o que já era feito pelos analistas da organização. Logo, é possível sim, utilizar os algoritmos para realizar tal análise e mais, é suficientemente mais eficaz e célere do que o método utilizado tradicionalmente pela contabilidade dos servidores públicos do INSS.
+
+Pergunta 2: Apontado pelos dispositivos do Governo Federal da República (Vulgo .gov) o INSS precisa de justificativa e sua negação também, mas o algoritmo utilizado é capaz de realizar o cálculo e também com o resultado definir se deve ser requerido ou não, sob medida do próprio regulamento do INSS. Logo, negativa de crédito deve ser justificada, e isso é mais facilmente realizado com o algoritmo, mas não pode interpretar casos expecíficos, assim deve ser fiscalizado regularmente.
+
+Conceito 6: São modelos de computação baseado no sistema nervoso central, que são capazes de participar no aprendizado de uma máquina e também no ato de reconhecer padrões computacionais.

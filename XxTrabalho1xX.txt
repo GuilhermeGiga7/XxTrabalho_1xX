@@ -31,3 +31,15 @@ Pergunta 1: Informado pelo INSS, foi mostrado que não houve nenhuma diferença 
 Pergunta 2: Apontado pelos dispositivos do Governo Federal da República (Vulgo .gov) o INSS precisa de justificativa e sua negação também, mas o algoritmo utilizado é capaz de realizar o cálculo e também com o resultado definir se deve ser requerido ou não, sob medida do próprio regulamento do INSS. Logo, negativa de crédito deve ser justificada, e isso é mais facilmente realizado com o algoritmo, mas não pode interpretar casos expecíficos, assim deve ser fiscalizado regularmente.
 
 Conceito 6: São modelos de computação baseado no sistema nervoso central, que são capazes de participar no aprendizado de uma máquina e também no ato de reconhecer padrões computacionais.
+
+Trabalho 3:.- --.. ..- .-..
+
+Pergunta 1: 
+a) Os Data Centers são servidores onde fica hospedado as informações de um site. A maioria dos Data Centers tem uma espécie de criptografia que impossibilita a visualização e acesso dos dados pessuais de um usuário no próprio Data center, apenas sendo possibilitado com o Login e senha do usuário. Logo, não fere por integridade a LGPD, pois os dados estariam protegidos se não for escolha do indivíduo publicá-las.
+
+b) Dados Proprietários são dados que pertencem a uma pessoa ou organização, considerados importantes o suficiente para dar vantagem competitiva ao mesmo e podem ser protegidos por leis de direitos autorais ou patentes. Já dados abertos são dados públicos, ou seja, que todos podem acessar e publicar como bem entenderem, assim, também não são protegidos por leis de direitos autorais ou patentes.
+
+1- Exemplos: Dados abertos: Linux, Android, Chromium (versão aberta do Chrome) ou Wikipédia;
+             Dados Proprieários: Windows, IOS, um vídeo no Youtube ou postagem no Instagram;
+
+2- Dados públicos ou de interesse público são dados que, pela LGPD, podem acessados por qualquer um e deve ser tratados considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização, ou seja, devem ser dados disponíveis a todos e que não infrinja a liberdade e ou integridade de outrem e que seja de interesse público. O que é bom, visto que assim é garantida uma neutralidade de rede, trazendo uma internet e fluxo de dados mais igualitária e livre para todos seus usuários.

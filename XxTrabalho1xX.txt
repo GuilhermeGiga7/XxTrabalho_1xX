@@ -37,9 +37,9 @@ Explicação: São modelos de computação baseado no sistema nervoso central, q
 Trabalho 3:.- --.. ..- .-..
 
 Pergunta 1: 
-a) Os Data Centers são servidores onde fica hospedado as informações de um site. A maioria dos Data Centers tem uma espécie de criptografia que impossibilita a visualização e acesso dos dados pessuais de um usuário no próprio Data center, apenas sendo possibilitado com o Login e senha do usuário. Logo, não fere por integridade a LGPD, pois os dados estariam protegidos se não for escolha do indivíduo publicá-las.
+a) Os Data Centers são a infraestrutura de servidores privados onde fica hospedado as informações de um site. A maioria dos Data Centers tem uma espécie de criptografia que impossibilita a visualização e acesso dos dados pessuais de um usuário no próprio Data center, apenas sendo possibilitado com o Login e senha do usuário. Logo, não fere por integridade a LGPD, pois os dados estariam protegidos, mesmo fora do Brasil, visto que os dados são de brasileiros, se não for escolha do indivíduo publicá-las.
 
-b) Dados Proprietários são dados que pertencem a uma pessoa ou organização, considerados importantes o suficiente para dar vantagem competitiva ao mesmo e podem ser protegidos por leis de direitos autorais ou patentes. Já dados abertos são dados públicos, ou seja, que todos podem acessar e publicar como bem entenderem, assim, também não são protegidos por leis de direitos autorais ou patentes.
+b) Dados Proprietários são dados que pertencem a uma pessoa ou organização, considerados importantes o suficiente para dar vantagem competitiva ao mesmo e podem ser protegidos por leis de direitos autorais ou patentes. Já dados abertos são dados de acesso público, ou seja, que todos podem acessar e publicar como bem entenderem, assim, também não são protegidos por leis de direitos autorais ou patentes.
 
 1- Exemplos: Dados abertos: Linux, Android, Chromium (versão aberta do Chrome) ou Wikipédia;
              Dados Proprieários: Windows, IOS, um vídeo no Youtube ou postagem no Instagram;

@@ -30,7 +30,9 @@ Pergunta 1: Informado pelo INSS, foi mostrado que não houve nenhuma diferença 
 
 Pergunta 2: Apontado pelos dispositivos do Governo Federal da República (Vulgo .gov) o INSS precisa de justificativa e sua negação também, mas o algoritmo utilizado é capaz de realizar o cálculo e também com o resultado definir se deve ser requerido ou não, sob medida do próprio regulamento do INSS. Logo, negativa de crédito deve ser justificada, e isso é mais facilmente realizado com o algoritmo, mas não pode interpretar casos expecíficos, assim deve ser fiscalizado regularmente.
 
-Conceito 6: São modelos de computação baseado no sistema nervoso central, que são capazes de participar no aprendizado de uma máquina e também no ato de reconhecer padrões computacionais.
+Conceito 6: Rede neural artificial
+
+Explicação: São modelos de computação baseado no sistema nervoso central, que são capazes de participar no aprendizado de uma máquina e também no ato de reconhecer padrões computacionais.
 
 Trabalho 3:.- --.. ..- .-..
 
@@ -43,3 +45,41 @@ b) Dados Proprietários são dados que pertencem a uma pessoa ou organização, 
              Dados Proprieários: Windows, IOS, um vídeo no Youtube ou postagem no Instagram;
 
 2- Dados públicos ou de interesse público são dados que, pela LGPD, podem acessados por qualquer um e deve ser tratados considerando a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização, ou seja, devem ser dados disponíveis a todos e que não infrinja a liberdade e ou integridade de outrem e que seja de interesse público. O que é bom, visto que assim é garantida uma neutralidade de rede, trazendo uma internet e fluxo de dados mais igualitária e livre para todos seus usuários.
+
+Trabalho 1,5( em sala):
+
+Conceito 7: Algoritmo
+
+Explicação: Algoritmos são um modelo de ações que um computador deve executar e seu caminho para o mesmo, onde cada opção selecionada leva uma ação a ser concluída pela máquina.
+
+Conceito 8: Nuvem
+
+Explicação: Nuvem é um conjunto de servidores, assim, trata principalmente de armazenamento de dados e capacidade computacional, onde não se tem gerenciamento direto do usuário.
+
+Conceito 9: Servidor
+
+Explicação: É onde ficam armazenadas as informações e dados gerais do mesmo, como por exemplo um possível algoritmo para executar funções específicas.
+
+Conceito 10: Informação
+
+Explicação: É um conhecimento passado por algum interlocutor passivo ou ativo.
+
+Conceito 11: Processo de negócio
+
+Explicação: É um modelo negocial de organização por tarefas a fim de gerar um produto a ser entregue a outra finalidade.
+
+Conceito 12: Memória
+
+Explicação: É um sistema de armazenamento, que pode ser temporário ou permanente, importantes para o funcionamento do aparelho.
+
+Conceito 13: Jurimetria
+
+Explicação: É o uso de métodos quantitativos, especialmente estatística, com aplicação no direito.
+
+Conceito 14: Sistema de arquivos
+
+Explicação: O sistema de arquivos é a método organizacional de dados, em uma forma de armazenamento de dados em massa, geralmente feito em discos magnéticos.
+
+Conceito 15: Variável
+
+Explicação: Variável é uma parte da memória de um computador reservado a um dado que pode ser alterado durante a execução do algoritmo em que é aplicado.

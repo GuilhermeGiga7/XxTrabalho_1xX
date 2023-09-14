@@ -83,3 +83,7 @@ Explicação: O sistema de arquivos é a método organizacional de dados, em uma
 Conceito 15: Variável
 
 Explicação: Variável é uma parte da memória de um computador reservado a um dado que pode ser alterado durante a execução do algoritmo em que é aplicado.
+
+Trabalho 4:
+
+Javascript é consideravelmente mais dífficil de se programar do que as demais, é baseada em C. Python foi projetada para ser mais intuitivo de compreender códigos e redigí-los. Lua é muito usado em programação precedural, ou seja, um estilo de programação capaz de gerar resultados aleatórios com uma base pré programada.

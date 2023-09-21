@@ -87,3 +87,20 @@ Explicação: Variável é uma parte da memória de um computador reservado a um
 Trabalho 4:
 
 Javascript é consideravelmente mais dífficil de se programar do que as demais, é baseada em C. Python foi projetada para ser mais intuitivo de compreender códigos e redigí-los. Lua é muito usado em programação precedural, ou seja, um estilo de programação capaz de gerar resultados aleatórios com uma base pré programada.
+
+Trablho 5 (lista de exercícios):
+
+1) É vantajoso o conheciomento prévio dos sistemas de computação na utilização de programas que facilitem funções meramente burocraticas, no momento de intimações, entre outras utilidades, como estas usam muitos recursos eletrônicos, a importância de conhecer seu funcionamento é cada vez mais latente.
+
+2) 
+a) 
+b)
+c)
+d)
+e)
+
+3) Isso é possível pelos diversos níveis de abstração da internet quanto mais concreto, nós visamos componentes físicos de servidores e dos próprios computadores, e também pode ser mais abstrato se tratando de nuvem por exemplo, isso permite que a web seja plural relativo a computação, fazendo que suas margens expandam, trazendo ao conhecimento mundial que temos hoje.
+
+4) Inicialmente, computadores foram criados para calcular de forma mais fácil, rápida e precisa, usada mais como um suporte, atualmente eles continuam fazendo contas, mas muito mais complexas a fim de gerar resultados que, por sua combinação numérica, tome decisões, crie artes, armazene informações, entre outras funcionalidades que facilitaram serviços que agora podem ser ocupados apenas por máquinas.
+
+5) 

@@ -103,4 +103,6 @@ e)
 
 4) Inicialmente, computadores foram criados para calcular de forma mais fácil, rápida e precisa, usada mais como um suporte, atualmente eles continuam fazendo contas, mas muito mais complexas a fim de gerar resultados que, por sua combinação numérica, tome decisões, crie artes, armazene informações, entre outras funcionalidades que facilitaram serviços que agora podem ser ocupados apenas por máquinas.
 
-5) 
+5)
+
+6) O Arquivo binário é uma forma mais pura do código, ou seja em linguagem binária (0 & 1). Já o arquivo de texto é feito por caractéres que são organizados em combinações de valores binarios que podem ser interpretados como texto (como por exemplo esse arquivo .txt).
